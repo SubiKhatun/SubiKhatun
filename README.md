@@ -45,36 +45,67 @@
 
 ---
 
+
 <h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/PROJECT_01-AURORA_01-35106B?style=for-the-badge&labelColor=090014" alt="Project 01"/>
+      </p>
       <h3>🌌 SubiVerse</h3>
       <p>My personal developer portfolio showcasing projects, skills, and my professional journey.</p>
-      <a href="https://subiverse.vercel.app/"><b>↗ Visit Porfolio</b></a>
+      <p align="center">
+        <a href="https://subiverse.vercel.app/">
+          <img src="https://img.shields.io/badge/↗_VISIT-PORTFOLIO-35106B?style=for-the-badge&labelColor=090014" alt="Visit Portfolio"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/PROJECT_02-HEALTHCARE_02-075B78?style=for-the-badge&labelColor=090014" alt="Project 02"/>
+      </p>
       <h3>🩺 Dr Sufi Physio Clinic</h3>
       <p>A clinic website designed to present physiotherapy services and make clinic information accessible.</p>
-      <a href="https://drsufiphysio.vercel.app/"><b>↗ React Website</b></a> ·
-      <a href="https://dr-sufi-physio.web.app/"><b>Flutter Version</b></a>
+      <p align="center">
+        <a href="https://drsufiphysio.vercel.app/">
+          <img src="https://img.shields.io/badge/↗_REACT-WEBSITE-075B78?style=for-the-badge&labelColor=090014" alt="React Website"/>
+        </a>
+        <a href="https://dr-sufi-physio.web.app/">
+          <img src="https://img.shields.io/badge/FLUTTER-VERSION-35106B?style=for-the-badge&labelColor=090014" alt="Flutter Version"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/PROJECT_03-BUSINESS_03-35106B?style=for-the-badge&labelColor=090014" alt="Project 03"/>
+      </p>
       <h3>🏢 Izhar Stone Crusher</h3>
       <p>A responsive business website created to build an online presence for a stone crusher business.</p>
-      <a href="https://izharstonecrusher.vercel.app/"><b>↗ Visit Project</b></a>
+      <p align="center">
+        <a href="https://izharstonecrusher.vercel.app/">
+          <img src="https://img.shields.io/badge/↗_VISIT-PROJECT-35106B?style=for-the-badge&labelColor=090014" alt="Visit Project"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/PROJECT_04-CREATIVE_TECH-075B78?style=for-the-badge&labelColor=090014" alt="Project 04"/>
+      </p>
       <h3>🎬 SubiZByteBuddy</h3>
       <p><b>Big Tech. Tiny Lessons.</b> Short, beginner-friendly programming lessons and technology content.</p>
-      <p><b>Focus:</b> Programming · Tech Education</p>
-      <a href="https://www.youtube.com/@SubiZByteBuddy"><b>↗ Visit Channel</b></a>
+      <p align="center">
+        <a href="https://www.youtube.com/@SubiZByteBuddy">
+          <img src="https://img.shields.io/badge/↗_VISIT-CHANNEL-075B78?style=for-the-badge&labelColor=090014" alt="Visit Channel"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -92,42 +123,43 @@
 
 ---
 
-<h2>🤝 Let's Connect</h2>
 
-<p>Have a project, opportunity, or idea to discuss? Choose the right way to reach me.</p>
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  Have a project, opportunity, or idea to discuss? Choose the right way to reach me.
+</p>
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%" valign="top">
       <h3>💬 General Contact</h3>
       <p>Projects, collaborations, questions, and general messages.</p>
-      <a href="https://subi-contact.vercel.app/?form=general">Open Contact</a>
+      <a href="https://subi-contact.vercel.app/?form=general">
+        <img src="https://img.shields.io/badge/OPEN-GENERAL_CONTACT-35106B?style=for-the-badge&labelColor=090014" alt="Open General Contact"/>
+      </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%" valign="top">
       <h3>💼 Recruiter Contact</h3>
       <p>Job opportunities, recruitment, and professional enquiries.</p>
-      <a href="https://subi-contact.vercel.app/?form=recruiter">Open Recruiter's Contact</a>
+      <a href="https://subi-contact.vercel.app/?form=recruiter">
+        <img src="https://img.shields.io/badge/OPEN-RECRUITER_CONTACT-075B78?style=for-the-badge&labelColor=090014" alt="Open Recruiter Contact"/>
+      </a>
     </td>
-    <td align="center" width="25%">
-      <h3>🌐 Portfolio</h3>
-      <p>Explore my work, projects, and professional journey.</p>
-      <a href="https://subiverse.vercel.app/">Explore SubiVerse</a>
-    </td>
-    <td align="center" width="25%">
-      <h3>🔗 LinkedIn</h3>
-      <p>Connect with me professionally.</p>
-      <a href="https://linkedin.com/in/subikhatun/">Connect on LinkedIn</a>
-    </td>
-    <td align="center" width="25%">
-      <h3>📸 Instagram</h3>
-      <p>Connect with me on Instagram.</p>
-      <a href="https://www.instagram.com/syntacticsugar.23/">Follow Me</a>
-    </td>
-    <td align="center" width="25%">
-      <h3>▶️ YouTube</h3>
-      <p>Big Tech. Tiny Lessons.</p>
-      <a href="https://www.youtube.com/@SubiZByteBuddy">Visit My Channel</a>
-    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>✨ Turning curiosity into code and ideas into reality. ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:35106B,50:075B78,100:090014" width="100%" alt="Aurora footer"/>
+</p>
+
+
     
   </tr>
 </table>
